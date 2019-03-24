@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+I love coding but it irritates me when I'm not able to achieve my objective
+VALAR MORGHULIS -- ALL MEN MUST DIE
